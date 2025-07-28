@@ -22,3 +22,6 @@ env/
 
 # Other temp files
 *.log
+
+# File too big!
+data/hackers_events_2024.csv
