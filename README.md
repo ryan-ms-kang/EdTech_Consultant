@@ -1,4 +1,4 @@
-# EdTech Data Engineering & Analytics Project
+# Freelance EdTech Data Engineering & Analytics Work
 
 ## Overview
 
