@@ -6,6 +6,8 @@ An EdTech platform (name hidden for privacy concerns), wanted to increase the pe
 
 My objective was to mine their raw user event data (video watches, quiz attempts, course completions, forum posts) and uncover specific early warning signals of disengagement that could guide targeted interventions.
 
+DISCLAIMER: a fake dataset was generated for anonymity and privacy concerns.
+
 ### Key Features
 - **Data Pipelines:** Automated workflows for ingesting and cleaning raw data.
 - **BigQuery Integration:** SQL-based transformations and analytics on educational datasets.
