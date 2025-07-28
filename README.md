@@ -2,7 +2,9 @@
 
 ## Overview
 
-This project simulates a complete data engineering and analytics workflow for an EdTech platform. It integrates data ingestion, transformation, storage, and analysis using modern data tools.
+An EdTech platform (name hidden for privacy concerns), wanted to increase the percentage of students who finish their bootcamps through the online platform they launched last year. Completion rates had dropped over the past year, with many students becoming inactive halfway through. The academy lacked in-house analytics resources — they had event logs but no structured analysis or insight into why students disengage.
+
+My objective was to mine their raw user event data (video watches, quiz attempts, course completions, forum posts) and uncover specific early warning signals of disengagement that could guide targeted interventions.
 
 ### Key Features
 - **Data Pipelines:** Automated workflows for ingesting and cleaning raw data.
